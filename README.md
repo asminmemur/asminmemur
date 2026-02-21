@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=asminmemur&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=asminmemur&locale=en&mode=daily&theme=github_dark&hide_border=true&date_format=j/n%5B/Y%5D" height="399" alt="streak graph"  />
 </div>
 
 ###
