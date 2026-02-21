@@ -1,17 +1,42 @@
-<!-- İstatistik kartları (dark theme örnekleri) -->
-<p align="center">
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=asminmemur&show_icons=true&theme=dark&count_private=true" alt="github stats" />
+<br clear="both">
 
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asminmemur&layout=compact&theme=dark" alt="top langs" />
-</p>
+<h1 align="center">hi, i'm asmin!</h1>
 
-<!-- Streak / Contribution graph -->
-<p align="center">
-  <!-- Streak card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asminmemur&theme=dark" alt="streak" />
+###
 
-  <!-- Activity graph (son 31 gün gibi) -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=asminmemur&theme=react-dark" alt="activity graph" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=asminmemur&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:asminmemur?theme=sketch-2&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
